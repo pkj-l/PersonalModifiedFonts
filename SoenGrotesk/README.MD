@@ -1,2 +1,2 @@
 # 榫黑体
-基于[械黑 GB](https://github.com/maoken-fonts/flex-sans) 以及其上游字体 [IBM Plex](https://github.com/ibm/plex)，用 IBM Plex Sans JP 和 IBM Plex Sans TC 补全械黑 GB 没有的字，同时用 IBM Plex Sans SC 补全微量个人常用字。以原字体的 Text 为 Regular 字重，适应部分跟思源黑体混排的环境。添加无衬线`1`，更具亲和感。
+基于[械黑 GB](https://github.com/maoken-fonts/flex-sans) 以及其上游字体 [IBM Plex](https://github.com/ibm/plex)，用 IBM Plex Sans JP 和 IBM Plex Sans TC 补全械黑 GB 没有的字，同时用 IBM Plex Sans SC 补全微量个人常用字。以原字体的 Text 为 Regular 字重，适应部分跟思源黑体混排的环境。添加无衬线 `1`，更具亲和感。
